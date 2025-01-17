@@ -25,7 +25,7 @@ global.antidelete = false
 global.autotyping = false
 global.autoBio = true
 global.antiSpam = true
-global.sign = "𓃵"
+global.sign = "👁️‍🗨️"
 // ☞ ➻ ➽ ☛ 〆 
 global.bank = "Opay"
 global.bankname = "Victor Akpan"
